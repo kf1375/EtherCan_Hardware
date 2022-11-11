@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : F:\PDF\Can BUS\GB_Ether_TO_Can\GB_EtherCan_Hardware\GB_EtherCan.PcbDoc
+Date         : 2/23/2022
+Time         : 5:14:37 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 250
+    Connections routed, 250
+    Connections remaining, 0
+count : 4
