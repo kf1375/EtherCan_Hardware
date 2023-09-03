@@ -1,7 +1,7 @@
 # EtherCan
 ## Ethernet to CAN-Bus Transceiver over TCP/IP and UDP
 <p align="center">
-    <img src="/resources/images/ethercan.png" width="400" height="600">
+    <img src="/resources/images/ethercan.png">
 </p>
 ## Table of Contents
 - [Introduction](#Introduction)
