@@ -29,3 +29,6 @@ scripts/__pycache__/
 *.bak
 *.dwl
 *.dwl2
+
+#vs code
+.vscode/
